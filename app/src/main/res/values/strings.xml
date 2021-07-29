@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextAndButton</string>
+    <string name="nome">Nome</string>
+    <string name="limpar">limpar</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="nome_completo">Nome Completo</string>
+    <string name="erro_nome">Campo NOME não pode ser vazio!</string>
+    <string name="erro_sobre_nome">Campo SOBRENOME não pode ser vazio!</string>
+    <string name="mensagem_limpar">Campos limpados com sucesso!</string>
+</resources>

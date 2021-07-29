@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome">Nome</string>
+    <string name="limpar">limpar</string>
+    <string name="sobrenome">Sobrenome</string>
+    <string name="erro_nome">Campo nome não pode ser vazio!</string>
+</resources>
